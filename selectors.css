@@ -26,3 +26,6 @@ li {
 #div1{
     background: rgba(0,255,0,0.35);
 }
+img{
+    float: left;
+}
