@@ -33,7 +33,7 @@ false - true
 3 - 4
 -1
 "Bob" - "bill"
-NaN(not a number)
+NaN
 
 
 //Evaluate the below comparisons:
