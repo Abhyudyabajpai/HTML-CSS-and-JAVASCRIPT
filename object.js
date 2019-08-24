@@ -3,6 +3,9 @@ var user = {
     age : 41,
     sex : "Male",
     Hobby : "Tennis",
+    greet : function() {
+        console.log("Happy Birthday!");
+    }
 };
 var list = [
    { username : "candice",
@@ -24,3 +27,6 @@ var list = [
  
 // list[0].password; {accessing object items inside list}
 //"@#12"
+
+// To call the function greet :
+// user.greet();
