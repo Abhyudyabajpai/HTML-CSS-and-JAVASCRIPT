@@ -11,8 +11,8 @@ body {
     text-align: center;
     height: 120px;
     line-height: 110px;
-    vertical-align: bottom;
-    position: absolute;
+   /* vertical-align: bottom;
+*/    position: absolute;
     left: 0;
     right: 0;
     top: 100px;
