@@ -1,8 +1,12 @@
 var list =["tiger","cat","horse","rabit"]; 
 console.log( list[2]);
 
+
+
 var list2 =[ 
-    ["car","motorcycle","trian"]
+    ["car",
+"motorcycle",
+"trian"]
 ]
 console.log(list2[0][1]);
 
